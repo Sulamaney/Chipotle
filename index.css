@@ -1,0 +1,60 @@
+.zazu {
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Nunito, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"  ;
+    color: #9c1f16;
+    margin-right: 25px;
+    text-decoration: none;
+}   
+.azu {
+    list-style-type: none;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: Nunito, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: #9c1f16;
+    margin-right: 25px;
+    text-decoration: none;
+}
+.vm {
+    margin-left: 20px;
+}
+.logo {
+    width: 60px;
+}
+.gold {
+    width: 100%
+}
+.foil {
+    width: 60px;
+}
+.villa {
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+}
+.dope {
+    width: 1px;
+}
+.amina {
+    display: flex;
+    flex-direction: row;
+    border-color: #9c1f16;
+    border-width: 100px;
+}
+.sdk {
+    margin-top: 5%;
+    margin-left: 5%;
+        
+}
+.tunji {
+    border-width: 1px;
+    box-shadow: 0px 0px 20px #F1F1F1;
+}
+#lime {
+    width: 30px;
+}
+.laugh {
+    font-size: 18px;
+    color: #451400;
+    font-weight: 500;
+}
